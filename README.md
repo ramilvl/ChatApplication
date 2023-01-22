@@ -1,5 +1,11 @@
 # Chat Application
-This chat application has been created using Java Swing and Socket programming to enable two users to communicate in real-time. It allows users to enter their username and chat room, initiate conversations, and send messages back and forth. It is designed to use UDP protocol for its communication and is designed to be resilient to packet loss.
+Summary:
+
+- This chat application has been created using Java Swing and Socket programming to enable two users to communicate in real-time. It allows users to enter their username and chat room, initiate conversations, and send messages back and forth. It is designed to use UDP protocol for its communication and is designed to be resilient to packet loss.
+
+How to run?
+
+- First, you need to run "Server" class, then "Client" class.
 
 Demo:
 
